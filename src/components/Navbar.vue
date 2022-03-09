@@ -5,10 +5,22 @@
           <p class="font-pupylinux font-semibold text-2xl ml-5">Payna</p>
       </div>
       <div class="items-center font-pupylinux text-base hidden md:hidden lg:flex">
-          <p class="mx-7 font-semibold">Home</p>
-          <p class="mx-7">Features</p>
-          <p class="mx-7">Showcase</p>
-          <p class="mx-7">Pricing</p>
+          <p class="mx-7 font-semibold relative group cursor-pointer">
+              Home
+              <span class="w-0 h-[3px] bg-[#63a1f8] absolute left-0 -bottom-1 group-hover:w-full transition-all"></span>
+          </p>
+          <p class="mx-7 relative group cursor-pointer">
+              Features
+              <span class="w-0 h-[3px] bg-[#63a1f8] absolute left-0 -bottom-1 group-hover:w-full transition-all"></span>
+          </p>
+          <p class="mx-7 relative group cursor-pointer">
+              Showcase
+              <span class="w-0 h-[3px] bg-[#63a1f8] absolute left-0 -bottom-1 group-hover:w-full transition-all"></span>
+          </p>
+          <p class="mx-7 relative group cursor-pointer">
+              pricing
+              <span class="w-0 h-[3px] bg-[#63a1f8] absolute left-0 -bottom-1 group-hover:w-full transition-all"></span>
+          </p>
       </div>
 
       <button class="py-3 px-10 rounded-full bg-[#F5F6FB] font-pupylinux hidden md:block">Sign In</button>

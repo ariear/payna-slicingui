@@ -9,7 +9,7 @@
           </p>
           <div class="relative hidden md:block">
               <input type="email" placeholder="Email Address" class="bg-[#F5F6FB] rounded-full py-3 px-7 w-full">
-              <button class="font-semibold bg-[#1F7CFF] py-3 px-10 text-white rounded-full absolute right-0">Get Started</button>
+              <button class="font-semibold bg-[#1F7CFF] py-3 px-10 text-white rounded-full absolute right-0 hover:opacity-90 transition-all">Get Started</button>
           </div>
 
           <!-- mobile input -->

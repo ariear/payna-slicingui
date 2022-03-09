@@ -3,7 +3,7 @@
       <div class="w-[94vw] md:w-[443px] lg:w-[420px] xl:w-[443px] md:text-center lg:text-left md:mx-auto lg:mx-0 pl-5 md:pl-0">
           <p class="font-bold text-[40px] md:text-[55px] lg:text-[45px] xl:text-[55px]">{{ mainText }}</p>
           <p class="font-normal text-[#575455] py-8">{{ secondText }}</p>
-          <button class="bg-[#1F7CFF] text-white font-semibold py-3 px-10 rounded-full">Get Started</button>
+          <button class="bg-[#1F7CFF] text-white font-semibold py-3 px-10 rounded-full hover:opacity-90 transition-all">Get Started</button>
       </div>
       <img src="/asset/main-model.png" class="hidden md:hidden lg:block lg:w-[460px] xl:w-[785px]" alt="mbak mbak">
   </div>
