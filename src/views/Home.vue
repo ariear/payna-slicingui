@@ -5,7 +5,7 @@
           <p class="font-normal text-[#575455] py-8">{{ secondText }}</p>
           <button class="bg-[#1F7CFF] text-white font-semibold py-3 px-10 rounded-full hover:opacity-90 transition-all">Get Started</button>
       </div>
-      <img src="/asset/main-model.png" class="hidden md:hidden lg:block lg:w-[460px] xl:w-[785px]" alt="mbak mbak">
+      <img src="/asset/main-model.png" class="hidden md:hidden lg:block lg:w-[460px] xl:w-[760px]" alt="mbak mbak">
   </div>
 
   <div class="lg:w-[94vw] xl:container mx-auto flex flex-col md:flex-col lg:flex-row md:items-center md:justify-between">
